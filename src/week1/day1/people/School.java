@@ -25,6 +25,10 @@ public class School {
         s.setGpa(42000.65);
 
         System.out.println(t.getName());
+        Parent p = new Parent();
+        System.out.println(p.getHasStudent());
+
+        Parent.getHasStudent();
 
 
 
