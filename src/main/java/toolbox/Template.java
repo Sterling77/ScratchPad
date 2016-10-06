@@ -3,7 +3,8 @@ package toolbox;
 /**
  * Created by Letricia on 7/13/16.
  */
-public class Template {
+public class
+Template {
     // this is a variable - access modifier (public) with type (int) name (a) equals or receives a a value of (7)
     public int a = 7;
     // this is a variable type called boolean. with an access modifier
