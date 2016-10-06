@@ -1,5 +1,5 @@
 
-package toolbox.concurrency;
+package toolbox.collections;
 
         import java.util.HashMap;
         import java.util.Set;

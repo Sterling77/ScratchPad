@@ -1,4 +1,4 @@
-package toolbox.concurrency;
+package toolbox.collections;
 import java.util.ArrayList;
 
 
